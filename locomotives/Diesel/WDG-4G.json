@@ -1,0 +1,12 @@
+{
+  "id": 26,
+  "name": "WDG-4G",
+  "type": "Diesel",
+  "use": "Freight",
+  "year": "2017",
+  "max_speed": "100 km/h",
+  "total_produced": "582",
+  "description": "The Indian locomotive class WDG-4G (GE ES43ACmi) [ 1 ] is a class of dual-cabin freight-hauling diesel–electric locomotive used by the Indian Railways (IR). The locomotive is designed by GE Transportation and is based on its Evolution Series , which are used in North America . The class is meant for freight hauling and replaces the older American Locomotive Company (ALCO)-designed locomotives, which have been the mainstay diesels of Indian Railways since 1962. Equipped with a 12-cylinder fully turbocharged GEVO engine, it is claimed to be 50% more environmentally friendly than its predecessors and is the first in the country to be compliant with level one of the emission norms set by the International Union of Railways (UIC-1). The locomotive has two cabs for easy reversal, both of which are air conditioned.",
+  "image": "images/Diesel/WDG_4G.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDG-4G"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13,
+  "name": "WAG-12",
+  "type": "Electric",
+  "use": "Freight",
+  "year": "2017",
+  "max_speed": "120 km/h",
+  "total_produced": "598",
+  "description": "The Indian locomotive class WAG-12B is a class of 25 kV AC twin section electric locomotives that was developed in 2017 by Alstom with technological collaboration with Indian Railways . The model name stands for wide gauge (W), alternating current (A), goods traffic (G) locomotive-12. They entered trial service in 2019. As March 2026, a total of 598 WAG-12B were built at the Electric Locomotive Factory, Madhepura , Bihar , India . With a power output of 12,000 hp, the WAG 12 is twice as powerful as its immediate predecessor, WAG-9 .",
+  "image": "images/Electric/WAG_12.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WAG-12"
+}

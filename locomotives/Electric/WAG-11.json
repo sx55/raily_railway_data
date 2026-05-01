@@ -1,0 +1,12 @@
+{
+  "id": 12,
+  "name": "WAG-11",
+  "type": "Electric",
+  "use": "Freight",
+  "year": "2018",
+  "max_speed": "105 km/h",
+  "total_produced": "4",
+  "description": "The Indian locomotive class WAG-11 is a class of twin-section 25 kV AC electric locomotives that was developed in 2018 by Banaras Locomotive Works (BLW), Varanasi for Indian Railways . This freight engine has been designed for a speed of 105 km/h and weighs 252 tons. It is equipped with a three-phase induction motor, four power converters and regenerative as well as pneumatic braking system. [ 1 ] The model name stands for broad gauge (W) , Alternating Current (A), Goods traffic (G), and 11th in series (11). They entered trials service in 2019.",
+  "image": "images/Electric/WAG_11.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WAG-11"
+}

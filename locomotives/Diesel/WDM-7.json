@@ -1,0 +1,12 @@
+{
+  "id": 19,
+  "name": "WDM-7",
+  "type": "Diesel",
+  "use": "Freight",
+  "year": "1987-89",
+  "max_speed": "105 km/h",
+  "total_produced": "15",
+  "description": "The WDM-7 is a diesel–electric locomotive of Indian Railways . It has been manufactured by Banaras Locomotive Works (BLW), Varanasi. The model name stands for broad gauge (W) , diesel (D), mixed traffic (M) engine. These units have been retro-fitted with air brakes , in addition to the original vacuum brakes . The WDM-7 locos have a maximum speed of 105 km/h (65 mph), [ 2 ] restricted to 100 km/h (62 mph) when run long hood forward - the gear ratio is 94:17.",
+  "image": "images/Diesel/WDM_7.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDM-7"
+}

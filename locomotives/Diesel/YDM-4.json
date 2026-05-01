@@ -1,0 +1,12 @@
+{
+  "id": 30,
+  "name": "YDM-4",
+  "type": "Diesel",
+  "use": "",
+  "year": "1961–93",
+  "max_speed": "96 km/h",
+  "total_produced": "4",
+  "description": "The YDM-4 is a class of diesel locomotives operating on Indian Railways . The first units were built by the American Locomotive Company (Alco) in 1961. Since 1968, members of the class have been manufactured in India by the Banaras Locomotive Works (BLW), Varanasi. The model name stands for metre gauge (Y), diesel (D), mixed traffic (M) engine. The YDM-4 has been the most successful metre gauge diesel locomotive in India.",
+  "image": "images/Diesel/YDM_4.JPG",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_YDM-4"
+}

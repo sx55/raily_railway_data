@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "WAG-7",
+  "type": "Electric",
+  "use": "Freight",
+  "year": "2007",
+  "max_speed": "105 km/h",
+  "total_produced": "1773",
+  "description": "The Indian locomotive class WAG-7 is a class of 25 kV AC electric locomotives that was developed in 1990 by Chittaranjan Locomotive Works for Indian Railways . The model name stands for broad gauge (W) , alternating current (A), goods traffic (G) engine, 7th generation (7). They entered service in 1992. A total of 1974 WAG-7 were built at CLW and BHEL between 1990 and 2015 by CLW and 2009 and 2023 by BHEL which made them the most numerous class of mainline electric locomotive till its successor the WAG-9. The WAG-7 is one of the most successful locomotives of Indian Railways, [ peacock prose ] serving freight trains since its introduction in 1990.",
+  "image": "images/Electric/WAG_7.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WAG-7"
+}

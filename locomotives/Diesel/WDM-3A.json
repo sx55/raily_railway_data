@@ -1,0 +1,12 @@
+{
+  "id": 17,
+  "name": "WDM-3A",
+  "type": "Diesel",
+  "use": "Freight",
+  "year": "1994-98",
+  "max_speed": "120 km/h",
+  "total_produced": "1402",
+  "description": "The Indian locomotive class WDM-3A is a class of diesel–electric locomotive that was developed in 1993 by Banaras Locomotive Works (BLW), Varanasi for Indian Railways . The model name stands for broad gauge (W) , Diesel (D), Mixed traffic (M) engine, with 3300 horsepower (3A). The WDM-3A is a later classification of earlier WDM-2C. They entered service in 1994. A total of 143+ were built at ALCO and Banaras Locomotive Works between 1994 and 2003 with rest of the 1246 units being rebuilt from WDM-2 which made them the most numerous class of mainline diesel locomotive until the WDG-4.",
+  "image": "images/Diesel/WDM_3A.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDM-3A"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 21,
+  "name": "WDP-3A",
+  "type": "Diesel",
+  "use": "Passenger",
+  "year": "1998-2002",
+  "max_speed": "160 km/h",
+  "total_produced": "44",
+  "description": "The Indian locomotive class WDP-3A , colloquially nicknamed the Toaster , is a class of diesel–electric locomotive that was developed in 1998 by Banaras Locomotive Works , Varanasi for Indian Railways . The model name stands for broad gauge ( W ) , Diesel ( D ), Passenger traffic ( P ) locomotive with 3,100 horsepower ( 3A ). The WDP-3A is a later classification of earlier WDP-2. They entered service in 1998. A total of 44 were built between 1998 and 2001.",
+  "image": "images/Diesel/WDP_3A.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDP-3A"
+}

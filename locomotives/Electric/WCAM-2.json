@@ -1,0 +1,12 @@
+{
+  "id": 14,
+  "name": "WCAM-2",
+  "type": "Electric",
+  "use": "Passenger",
+  "year": "1995-96",
+  "max_speed": "100 km/h",
+  "total_produced": "2",
+  "description": "The Indian locomotive class WCAM-2 is a class of dual-power AC/DC series electric locomotives that was developed in 1995 by Bharat Heavy Electricals Limited used in the Indian Railways system. They are the second locomotive from the WCAM class. The model name stands for broad gauge (W), DC Current (C), AC Current (A), Mixed traffic (M) locomotive, 2nd generation (2). They entered service in 1995. A total of 20 WCAM-2 were built at BHEL between 1995 and 1996, which made them the most numerous class of mainline dual-power AC/DC electric locomotive.",
+  "image": "images/Electric/WCAM_2.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WCAM-2"
+}

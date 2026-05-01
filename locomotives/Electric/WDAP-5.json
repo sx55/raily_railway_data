@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "WDAP-5",
+  "type": "Electric",
+  "use": "Passenger",
+  "year": "2019",
+  "max_speed": "150.8 km/h",
+  "total_produced": "1",
+  "description": "The Indian locomotive class WDAP-5 is a class of diesel-electric dual mode locomotive that was developed in 2019 by Banaras Locomotive Works (BLW), Varanasi for Indian Railways . The model name stands for broad gauge (W) , Diesel (D), AC Current (A), Passenger (P) and 5000 Horsepower (5). The locomotive can deliver 5500 hp (4.1 MW) in electric mode and 4500 hp (3.4 MW) in diesel mode. Since 2016, Indian Railways has pushed for greater electrification of the railway network. [ 2 ] In this interest, the government, in 2019, approved plans for 100% electrification.",
+  "image": "images/Electric/WDAP_5.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDAP-5"
+}

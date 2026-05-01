@@ -1,0 +1,12 @@
+{
+  "id": 28,
+  "name": "WDG-6G",
+  "type": "Diesel",
+  "use": "Freight",
+  "year": "2018",
+  "max_speed": "100 km/h",
+  "total_produced": "212",
+  "description": "The Indian locomotive class WDG-6G (GE ES57ACi) [ 1 ] is a class of diesel–electric locomotive used by the Indian Railways for freight duty. The locomotive is a higher power variant of the WDG-4G locomotive which was also designed by General Electric . The design platform is based on the GE Evolution Series and features a 4-stroke 16-cylinder fully turbocharged engine which delivers around 6,000 hp (4,500 kW ), making it the most powerful diesel locomotive of IR (the second being its WDG-5 predecessor). [ 2 ] It is the only 6,000 hp diesel electric locomotive at 23t axle load, making it the lightest locomotive in its category in the world. [ 1 ] [ 3 ] This locomotive, has been named as \"Angad\" after the character of the same name from the Hindu Epic Ramayana .",
+  "image": "images/Diesel/WDG_6G.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDG-6G"
+}

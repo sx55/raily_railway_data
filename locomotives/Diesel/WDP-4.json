@@ -1,0 +1,12 @@
+{
+  "id": 22,
+  "name": "WDP-4",
+  "type": "Diesel",
+  "use": "Passenger",
+  "year": "2002-18",
+  "max_speed": "160 km/h",
+  "total_produced": "4",
+  "description": "The Indian locomotive class WDP-4 (EMD GT46PAC) is a passenger-hauling diesel–electric locomotive with AC electric transmission designed by General Motors Electro-Motive Division and built by both GM-EMD and under license by Banaras Locomotive Works (BLW) of Varanasi , India for Indian Railways as the classes WDP4, WDP4B and WDP4D. [ 1 ] The GT46PAC is a passenger version of the previous Indian Railways EMD GT46MAC ( WDG-4 ) freight locomotive. The locomotive has a 16-cylinder 710G3B diesel engine and is one of the fastest diesel–electric locomotives in service in Indian Railways. [ 2 ] The WDP-4 was the loco originally designed by GM EMD and 10 of them were dispatched to India by June 2001. Later on Banaras Locomotive Works , Varanasi started building them initially using knocked-down kits and later indigenously.",
+  "image": "images/Diesel/WDP_4.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDP-4"
+}

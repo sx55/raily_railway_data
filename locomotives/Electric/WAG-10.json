@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "name": "WAG-10",
+  "type": "Electric",
+  "use": "Freight",
+  "year": "2018",
+  "max_speed": "10",
+  "total_produced": "",
+  "description": "The WAGC-3 , also known as WAG-10 , is a class of 25 kv AC electric locomotive rebuilt by Banaras Locomotive Works (BLW). It can deliver 10,000 hp (7457 kW). The locomotive was rebuilt from a WDG-3A diesel locomotive . The name stands for broad gauge ( W ), alternating current ( A ), goods service ( G ), and converted ( C ). This electric locomotive-related article is a stub .",
+  "image": "images/Electric/WAG_10.png",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WAGC3/WAG-10"
+}

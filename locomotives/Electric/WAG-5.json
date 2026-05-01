@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "WAG-5",
+  "type": "Electric",
+  "use": "Freight",
+  "year": "1984-98",
+  "max_speed": "105 km/h",
+  "total_produced": "1196",
+  "description": "The Indian locomotive class WAG-5 is a class of 25 kV AC electric locomotives that was developed in 1978 by Chittaranjan Locomotive Works for Indian Railways . The model name stands for broad gauge ( W ), alternating current ( A ), goods traffic ( G ) engine, 5th generation ( 5 ). They entered service in 1980. A total of 1,196 WAG-5 were built at CLW and BHEL between 1978 and 1998, which made them the most numerous class of mainline electric locomotive until the introduction of its successor, the WAG-7. The WAG-5 is one of the most successful locomotives of Indian Railways currently serving both freight and passenger trains for over 43 years.",
+  "image": "images/Electric/WAG_5.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WAG-5"
+}

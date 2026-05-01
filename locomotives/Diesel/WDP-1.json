@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "name": "WDP-1",
+  "type": "Diesel",
+  "use": "Passenger",
+  "year": "1995-99",
+  "max_speed": "140 km/h",
+  "total_produced": "69",
+  "description": "The Indian locomotive class WDP-1 is a class of diesel–electric locomotive that was developed in 1995 by Banaras Locomotive Works (BLW) for Indian Railways . The model name stands for broad gauge (W) , Diesel (D), Passenger traffic (P) engine, 1st generation (1). They entered service in 1995. A total of 69 WDP-1 units were built at Banaras Locomotive Works (BLW), Varanasi between 1995 and 1999. Despite the introduction of more modern types of locomotives such as the WDG-4 , and electrification, a significant number are still in use, both in mainline and departmental duties.",
+  "image": "images/Diesel/WDP_1.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDP-1"
+}

@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "name": "Amrit Bharat Express",
+  "type": "Special",
+  "use": "Passenger",
+  "year": "2024",
+  "max_speed": "130 km/h",
+  "total_produced": "35",
+  "description": "The Amrit Bharat Express is a superfast express service operated by Indian Railways, introduced in 2024. It is a non-air-conditioned, low-cost sleeper and unreserved service for long-distance travel connecting cities more than 800 km apart. The trainset uses push-pull technology with two locomotives on both ends and consists of 22 coaches total, divided into 20 passenger coaches and 2 parcel coaches. Manufactured by Integral Coach Factory in Chennai, the trainsets feature semi-permanent couplers that negate jerk effects for smoother travel.",
+  "image": "",
+  "wiki": "https://en.wikipedia.org/wiki/Amrit_Bharat_Express"
+}

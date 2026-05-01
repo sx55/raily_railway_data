@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "WAP-1",
+  "type": "Electric",
+  "use": "Passenger",
+  "year": "1980-96",
+  "max_speed": "130 km/h",
+  "total_produced": "1",
+  "description": "The Indian locomotive class WAP-1 was a class of 25 kV AC electric locomotives that was developed in 1980 by Chittaranjan Locomotive Works for Indian Railways . The model name stands for broad gauge (W) , AC Current (A), Passenger traffic (P) locomotive, 1st generation (1). They entered service in late 1981. A total of 65 WAP-1 were built at CLW between 1980 and 1996, which made them the most numerous class of mainline electric passenger locomotive until its successor, the WAP-4 . The WAP-1 was the first dedicated AC electric passenger locomotive of Indian Railways, and also the first dedicated passenger locomotive built in India since its independence in 1947.",
+  "image": "images/Electric/WAP_1.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WAP-1"
+}

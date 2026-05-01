@@ -1,0 +1,12 @@
+{
+  "id": 29,
+  "name": "WDS-6",
+  "type": "Diesel",
+  "use": "Freight",
+  "year": "1975",
+  "max_speed": "71 km/h",
+  "total_produced": "6",
+  "description": "The Indian locomotive class WDS-6 is a diesel–electric locomotive used by the Indian Railways mainly for shunting and also for performing departmental duties. The model name stands for broad gauge (W), D iesel (D), S hunting (S) engine, 6 th generation (6). As of April 2022, 375 units of this class are currently in use all over India. This class was designed in 1975 to address the need for a powerful shunting locomotive with the ability to haul 20- to 24-coach rakes. The previous WDS-4 class was found to be grossly underpowered for this kind of operation.",
+  "image": "images/Diesel/WDS_6.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDS-6"
+}

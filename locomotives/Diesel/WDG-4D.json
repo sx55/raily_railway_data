@@ -1,0 +1,12 @@
+{
+  "id": 25,
+  "name": "WDG-4D",
+  "type": "Diesel",
+  "use": "Freight",
+  "year": "2012-2018",
+  "max_speed": "105 km/h",
+  "total_produced": "4",
+  "description": "The Indian locomotive class WDG-4 (EMD GT46MAC) is a type of six-axle ( Co-Co ) freight -hauling diesel–electric locomotive with AC electric transmission designed by General Motors Electro-Motive Diesel [ 1 ] in 1997–1998 for Indian Railways , where they are classed as WDG-4 . Derived from the EMD SD70MAC , it is powered by a 4,000 hp (3,000 kW ) 16-cylinder EMD 710G3B prime mover. Thirteen were built by EMD as order #958647, and a further eight were exported in kit form and assembled in India. The class entered service in 1999. A Dedicated Passenger version of this locomotive, the WDP-4 ( EMD GT46PAC ), has also been produced, with a Bo1-1Bo Wheel Configuration, which entered service in 2001.",
+  "image": "images/Diesel/WDG_4D.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDG-4"
+}

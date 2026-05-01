@@ -1,0 +1,12 @@
+{
+  "id": 27,
+  "name": "WDG-5",
+  "type": "Diesel",
+  "use": "Freight",
+  "year": "2012-17",
+  "max_speed": "100 km/h",
+  "total_produced": "7",
+  "description": "The Indian locomotive class WDG-5 (EMD GT50AC) is a class of heavy haul Diesel–electric locomotive built by Banaras Locomotive Works , Varanasi in collaboration with Electro-Motive Diesel. At a rated power output of 5,500 horsepower (4,100 kW), it is the second most powerful diesel locomotive class on Indian Railways , just out-powered by the 6,000 horsepower (4,500 kW) WDG-6G . Derived from the EMD SD80MAC , it was meant as a direct upgrade to the WDG-4 aka GT46MAC (an SD70MAC derivative). The locomotive series is named Bheem , after the strong Pandav brother from epic Mahabharata . The loco has the two-stroke Turbocharged EMD 20N-710G3B-EC ( 20 cylinder engine ) of the EMD SD80MAC and an AC-AC transmission.",
+  "image": "images/Diesel/WDG_5.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDG-5"
+}

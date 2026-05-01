@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "name": "Vande Bharat Express",
+  "type": "Special",
+  "use": "Passenger",
+  "year": "2019",
+  "max_speed": "180 km/h",
+  "total_produced": "79",
+  "description": "The Vande Bharat Express is a medium to long-distance semi-high-speed express train service operated by Indian Railways. Introduced in 2019, it is a reserved, air-conditioned chair car service connecting cities less than 800 km apart. The trainsets are self-propelling electric multiple units manufactured by Integral Coach Factory in Chennai as part of the Make in India initiative. During trial runs, Vande Bharat trainsets achieved speeds of up to 183 km/h with rapid acceleration of 0-100 km/h in 52 seconds. Maximum operational speed is restricted to 160 km/h due to track restrictions.",
+  "image": "",
+  "wiki": "https://en.wikipedia.org/wiki/Vande_Bharat_Express"
+}

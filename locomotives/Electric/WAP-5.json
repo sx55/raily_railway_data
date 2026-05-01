@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "WAP-5",
+  "type": "Electric",
+  "use": "Passenger",
+  "year": "1995",
+  "max_speed": "160 km/h",
+  "total_produced": "249",
+  "description": "The Indian locomotive class WAP-5 is a class of electric locomotives used by Indian Railways . The first ten locomotives were imported from Adtranz in Switzerland in 1995 and later manufactured by Chittaranjan Locomotive Works in India. On 3 July 2014, a WAP-5 set an Indian speed record by hauling a train between Delhi and Agra at a speed of 160 km/h (99 mph). [ 2 ] The locomotive has regenerative braking , flexible gear coupling, wheel-mounted disc brakes , and a potential for speed enhancement to 200 km/h (120 mph). Braking systems include 160 kN (36,000 lbf) regenerative brakes, disc brakes, automatic train air brakes and a charged spring parking brake .",
+  "image": "images/Electric/WAP_5.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WAP-5"
+}

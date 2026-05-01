@@ -1,0 +1,12 @@
+{
+  "id": 15,
+  "name": "WCAM-3",
+  "type": "Electric",
+  "use": "Passenger",
+  "year": "1997-98",
+  "max_speed": "105 km/h",
+  "total_produced": "3",
+  "description": "The Indian locomotive class WCAM–3 is a class of dual-power AC/DC series electric locomotives That was developed in 1997 by Bharat Heavy Electricals Limited used in the Indian Railways system. They are the third locomotives from the WCAM class. The model name stands for broad gauge (W), DC Current (C), AC Current (A), Mixed traffic (M) locomotive, 3rd generation (3). They entered service in 1997. A total of 53 WCAM-3 were built at BHEL between 1997 and 1998, which made them the most numerous class of mainline dual-power AC-DC electric locomotive.",
+  "image": "images/Electric/WCAM_3.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WCAM-3"
+}

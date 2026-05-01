@@ -1,0 +1,12 @@
+{
+  "id": 18,
+  "name": "WDM-3D",
+  "type": "Diesel",
+  "use": "Freight",
+  "year": "2003-13",
+  "max_speed": "120 km/h",
+  "total_produced": "490",
+  "description": "The Indian locomotive class WDM-3D is a class of diesel–electric locomotive that was developed in 2003 by Banaras Locomotive Works (BLW), Varanasi for Indian Railways . The model name stands for broad gauge (W) , Diesel (D), Mixed traffic (M) engine with 3300 horsepower (3D). The engine is classified WDM-3D though it outputs only 3300 hp and not 3400 hp as the name should suggest. They entered service in 2003. A total of 490+ WDM-3D were built at Banaras Locomotive Works (BLW), Varanasi between 2003 and 2016.",
+  "image": "images/Diesel/WDM_3D.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WDM-3D"
+}

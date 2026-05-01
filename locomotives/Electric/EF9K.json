@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "name": "EF9K",
+  "type": "Electric",
+  "use": "",
+  "year": "2020",
+  "max_speed": "100 km/h",
+  "total_produced": "7293",
+  "description": "WAG-9H/9Hi/9i/9HH : 132 tonnes (130 long tons; 146 short tons) WAG-9TWIN/EF12K: WAG-9H/HH Starting Effort : 510 kN (110,000 lb f ) The Indian locomotive class WAG-9 is a class of 25 kV AC electric locomotives that was developed in 1995 by ABB for Indian Railways . The model name stands for broad gauge (W) , AC Current (A), Goods traffic (G), 9th generation (9) locomotive. They entered service in 1996. A total of 5140 WAG-9 have been built at Chittaranjan Locomotive Works (CLW), with more units being built at Banaras Locomotive Works (BLW), Bharat Heavy Electricals Limited (BHEL) and Patiala Locomotive Works (PLW). It was the most powerful freight locomotive in the Indian Railways fleet until the introduction of the WAG-12 .",
+  "image": "images/Electric/EF9K.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WAG-9"
+}

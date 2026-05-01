@@ -1,0 +1,12 @@
+{
+  "id": 16,
+  "name": "WCAG-1",
+  "type": "Electric",
+  "use": "Freight",
+  "year": "1999-2000",
+  "max_speed": "100 km/h",
+  "total_produced": "12",
+  "description": "The Indian locomotive class WCAG–1 is a class of dual-power AC/DC series locomotives used in the Indian Railways system. They are the only class of the WCAG locomotives. They were specifically designed for use by Central Railways in the Ghat section towards Nashik and Pune . The WCAG-1 locomotives were developed after Central Railways faced a massive locomotive crisis in the 1990s. During this period, many of the WCM locomotives, which began to show their age, suffered several failures.",
+  "image": "images/Electric/WCAG_1.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WCAG-1"
+}

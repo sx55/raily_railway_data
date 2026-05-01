@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "WAP-7",
+  "type": "Electric",
+  "use": "Passenger",
+  "year": "1959",
+  "max_speed": "140 km/h",
+  "total_produced": "2193",
+  "description": "20.5 t (20.2 long tons; 22.6 short tons) [ 1 ] WAP 7HS 18.08 t (17.79 long tons; 19.93 short tons) [ citation needed ] 160 km/h (99 mph) (WAP-7HS) 180 km/h (110 mph) (WAP-7AD) Potential speed: 200 km/h (120 mph) (WAP-7AD) 180 km/h (110 mph) (WAP-7HS) The Indian locomotive class WAP-7 is a class of 25 kV AC electric locomotives that was developed in 1999 by Chittaranjan Locomotive Works (CLW) for Indian Railways . Its class designation denotes a broad gauge (W) alternating current (A) passenger (P) locomotive of the 7th generation (7). They entered service in 2000. WAP-7 locomotives are being built at CLW, Banaras Locomotive Works (BLW) and Patiala Locomotive Works (PLW).",
+  "image": "images/Electric/WAP_7.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Indian_locomotive_class_WAP-7"
+}
