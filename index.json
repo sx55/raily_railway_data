@@ -5,7 +5,7 @@
     "type": "coach",
     "sub_type": "Amrit_Bharat",
     "file_path": "coaches/Amrit_Bharat/Amrit-Bharat-Coach.json",
-    "image_path": ""
+    "image_path": "images/coaches/Amrit_Bharat/Amrit_Bharat.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "type": "coach",
     "sub_type": "EMU",
     "file_path": "coaches/EMU/EMU-Coach.json",
-    "image_path": ""
+    "image_path": "images/coaches/EMU/EMU.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "type": "coach",
     "sub_type": "ICF",
     "file_path": "coaches/ICF/ICF-Coach.json",
-    "image_path": ""
+    "image_path": "images/coaches/ICF/ICF.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "type": "coach",
     "sub_type": "LHB",
     "file_path": "coaches/LHB/LHB-Coach.json",
-    "image_path": ""
+    "image_path": "images/coaches/LHB/LHB.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "type": "coach",
     "sub_type": "Vande_Bharat",
     "file_path": "coaches/Vande_Bharat/Vande-Bharat-Coach.json",
-    "image_path": ""
+    "image_path": "images/coaches/Vande_Bharat/Vande_Bharat.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/NDM-1.json",
-    "image_path": "images/Diesel/NDM_1.JPG"
+    "image_path": "images/locomotive/Diesel/NDM_1.JPG"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/NDM-5.json",
-    "image_path": "images/Diesel/NDM_5.jpg"
+    "image_path": "images/locomotive/Diesel/NDM_5.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/NDM-6.json",
-    "image_path": "images/Diesel/NDM_6.jpg"
+    "image_path": "images/locomotive/Diesel/NDM_6.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDG-2.json",
-    "image_path": "images/Diesel/WDG_2.jpg"
+    "image_path": "images/locomotive/Diesel/WDG_2.jpg"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDG-4.json",
-    "image_path": "images/Diesel/WDG_4.JPG"
+    "image_path": "images/locomotive/Diesel/WDG_4.JPG"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDG-4D.json",
-    "image_path": "images/Diesel/WDG_4D.jpg"
+    "image_path": "images/locomotive/Diesel/WDG_4D.jpg"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDG-4G.json",
-    "image_path": "images/Diesel/WDG_4G.jpg"
+    "image_path": "images/locomotive/Diesel/WDG_4G.jpg"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDG-5.json",
-    "image_path": "images/Diesel/WDG_5.jpg"
+    "image_path": "images/locomotive/Diesel/WDG_5.jpg"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDG-6G.json",
-    "image_path": "images/Diesel/WDG_6G.jpg"
+    "image_path": "images/locomotive/Diesel/WDG_6G.jpg"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDM-3A.json",
-    "image_path": "images/Diesel/WDM_3A.jpg"
+    "image_path": "images/locomotive/Diesel/WDM_3A.jpg"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDM-3D.json",
-    "image_path": "images/Diesel/WDM_3D.jpg"
+    "image_path": "images/locomotive/Diesel/WDM_3D.jpg"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDM-7.json",
-    "image_path": "images/Diesel/WDM_7.jpg"
+    "image_path": "images/locomotive/Diesel/WDM_7.jpg"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDP-1.json",
-    "image_path": "images/Diesel/WDP_1.jpg"
+    "image_path": "images/locomotive/Diesel/WDP_1.jpg"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDP-3A.json",
-    "image_path": "images/Diesel/WDP_3A.jpg"
+    "image_path": "images/locomotive/Diesel/WDP_3A.jpg"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDP-4.json",
-    "image_path": "images/Diesel/WDP_4.jpg"
+    "image_path": "images/locomotive/Diesel/WDP_4.jpg"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/WDS-6.json",
-    "image_path": "images/Diesel/WDS_6.jpg"
+    "image_path": "images/locomotive/Diesel/WDS_6.jpg"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/YDM-4.json",
-    "image_path": "images/Diesel/YDM_4.JPG"
+    "image_path": "images/locomotive/Diesel/YDM_4.JPG"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/ZDM-3.json",
-    "image_path": "images/Diesel/ZDM_3.jpg"
+    "image_path": "images/locomotive/Diesel/ZDM_3.jpg"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/ZDM-4.json",
-    "image_path": "images/Diesel/ZDM_4.JPG"
+    "image_path": "images/locomotive/Diesel/ZDM_4.JPG"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "type": "locomotive",
     "sub_type": "Diesel",
     "file_path": "locomotives/Diesel/ZDM-5.json",
-    "image_path": "images/Diesel/ZDM_5.jpg"
+    "image_path": "images/locomotive/Diesel/ZDM_5.jpg"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/EF9K.json",
-    "image_path": "images/Electric/EF9K.jpg"
+    "image_path": "images/locomotive/Electric/EF9K.jpg"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAG-10.json",
-    "image_path": "images/Electric/WAG_10.png"
+    "image_path": "images/locomotive/Electric/WAG_10.png"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAG-11.json",
-    "image_path": "images/Electric/WAG_11.jpg"
+    "image_path": "images/locomotive/Electric/WAG_11.jpg"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAG-12.json",
-    "image_path": "images/Electric/WAG_12.jpg"
+    "image_path": "images/locomotive/Electric/WAG_12.jpg"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAG-5.json",
-    "image_path": "images/Electric/WAG_5.jpg"
+    "image_path": "images/locomotive/Electric/WAG_5.jpg"
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAG-7.json",
-    "image_path": "images/Electric/WAG_7.jpg"
+    "image_path": "images/locomotive/Electric/WAG_7.jpg"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAG-9.json",
-    "image_path": "images/Electric/WAG_9.jpg"
+    "image_path": "images/locomotive/Electric/WAG_9.jpg"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAG-9H.json",
-    "image_path": "images/Electric/WAG_9H.jpg"
+    "image_path": "images/locomotive/Electric/WAG_9H.jpg"
   },
   {
     "id": 34,
@@ -277,7 +277,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAP-1.json",
-    "image_path": "images/Electric/WAP_1.jpg"
+    "image_path": "images/locomotive/Electric/WAP_1.jpg"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAP-5.json",
-    "image_path": "images/Electric/WAP_5.jpg"
+    "image_path": "images/locomotive/Electric/WAP_5.jpg"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WAP-7.json",
-    "image_path": "images/Electric/WAP_7.jpg"
+    "image_path": "images/locomotive/Electric/WAP_7.jpg"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WCAG-1.json",
-    "image_path": "images/Electric/WCAG_1.jpg"
+    "image_path": "images/locomotive/Electric/WCAG_1.jpg"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WCAM-2.json",
-    "image_path": "images/Electric/WCAM_2.jpg"
+    "image_path": "images/locomotive/Electric/WCAM_2.jpg"
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WCAM-3.json",
-    "image_path": "images/Electric/WCAM_3.jpg"
+    "image_path": "images/locomotive/Electric/WCAM_3.jpg"
   },
   {
     "id": 41,
@@ -325,7 +325,7 @@
     "type": "locomotive",
     "sub_type": "Electric",
     "file_path": "locomotives/Electric/WDAP-5.json",
-    "image_path": "images/Electric/WDAP_5.jpg"
+    "image_path": "images/locomotive/Electric/WDAP_5.jpg"
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "type": "locomotive",
     "sub_type": "EMU",
     "file_path": "locomotives/EMU/DEMU.json",
-    "image_path": ""
+    "image_path": "images/locomotive/EMU/DEMU.jpg"
   },
   {
     "id": 43,
@@ -341,7 +341,7 @@
     "type": "locomotive",
     "sub_type": "EMU",
     "file_path": "locomotives/EMU/MEMU.json",
-    "image_path": "images/EMU/MEMU.jpg"
+    "image_path": "images/locomotive/EMU/MEMU.jpg"
   },
   {
     "id": 44,
@@ -349,30 +349,14 @@
     "type": "locomotive",
     "sub_type": "Special",
     "file_path": "locomotives/Special/Amrit-Bharat-Express.json",
-    "image_path": "images/Special/Amrit-Bharat-Express.jpg"
+    "image_path": "images/locomotive/Special/Amrit-Bharat-Express.jpg"
   },
   {
     "id": 45,
-    "name": "Amrit Bharat Express",
-    "type": "locomotive",
-    "sub_type": "Special",
-    "file_path": "locomotives/Special/Amrit_Bharat_Express.json",
-    "image_path": ""
-  },
-  {
-    "id": 46,
     "name": "Vande Bharat Express",
     "type": "locomotive",
     "sub_type": "Special",
     "file_path": "locomotives/Special/Vande-Bharat-Express.json",
-    "image_path": "images/Special/Vande-Bharat-Express.jpg"
-  },
-  {
-    "id": 47,
-    "name": "Vande Bharat Express",
-    "type": "locomotive",
-    "sub_type": "Special",
-    "file_path": "locomotives/Special/Vande_Bharat_Express.json",
-    "image_path": ""
+    "image_path": "images/locomotive/Special/Vande-Bharat-Express.jpg"
   }
 ]
