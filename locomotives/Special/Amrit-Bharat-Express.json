@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "Amrit Bharat Express",
+  "type": "Special",
+  "use": "Passenger",
+  "year": "2023",
+  "max_speed": "130 km/h",
+  "description": "The Amrit Bharat Express is a superfast express service operated by Indian Railways . It is a non-air-conditioned, low-cost, sleeper and unreserved service connecting cities that are more than 800 km (500 mi) apart or take more than ten hours to travel with existing services. The trainset uses a push-pull technology, which consists of two locomotives on both the ends. [ 1 ] The train has a maximum operating speed of 110–130 km/h (68–81 mph). The train has a total of 22 coaches. [ 2 ] The 22 coaches are divided into 20 coaches for passengers and 2 for parcels. [ 3 ] . In 2026, 20610 Tiruchchirappali - New Jalpaiguri Amrit Bharat Express pulled by a single Royapuram-based WAP-7 for first time without a push-pull configuration The train entered commercial service on 1 January 2024. [ 4 ] [ 5 ]",
+  "image": "images/Special/Amrit-Bharat-Express.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Amrit_Bharat_Express"
+}

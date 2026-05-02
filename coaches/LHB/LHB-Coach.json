@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "LHB Coach",
+  "type": "coach",
+  "use": "Passenger",
+  "year": "2000",
+  "max_speed": "160 km/h",
+  "description": "Linke-Hofmann-Busch coach, modern AC passenger coach.",
+  "image": "",
+  "coach_type": "LHB"
+}

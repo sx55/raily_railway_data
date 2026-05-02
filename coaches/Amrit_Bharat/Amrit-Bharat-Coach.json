@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "Amrit Bharat Coach",
+  "type": "coach",
+  "use": "Special",
+  "year": "2022",
+  "max_speed": "130 km/h",
+  "description": "Long-distance coach for Amrit Bharat Express.",
+  "image": "",
+  "coach_type": "Amrit_Bharat"
+}

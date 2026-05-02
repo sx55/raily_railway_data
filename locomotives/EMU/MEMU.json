@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "MEMU",
+  "type": "EMU",
+  "use": "Passenger",
+  "year": "",
+  "max_speed": "110 km/h",
+  "description": "A Mainline Electric Multiple Unit ( MEMU ) is an electric multiple unit (EMU) train in Indian Railway that serves short and medium-distance routes in India, as compared to normal EMU trains that connect urban and suburban areas. [ 1 ] Indian Railways (IR) started MEMU service on Asansol – Adra section on 15 July 1995 and on Kharagpur – Tata section on 22 July 1995. Delhi-Panipat MEMU service started on 27 September 1995. Raipur–Durg–Bhatapara–Raipur–Bilaspur MEMU service started on 17 October 1995. Arakkonam-Jolarpettai MEMU service on 22 May 2000. Bankura-Midnapore MEMU started on 30 June 2000. The first 20 coach MEMU ran between Surat to Virar in 2017. Since 2019, 3-phase MEMUs have started replacing existing MEMU rakes. [ 2 ] New 3rd generation was rolled out from RCF Kapurthala with following features:",
+  "image": "images/EMU/MEMU.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/MEMU"
+}

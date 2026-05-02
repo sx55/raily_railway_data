@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "EMU Coach",
+  "type": "coach",
+  "use": "Passenger",
+  "year": "",
+  "max_speed": "",
+  "description": "Electric Multiple Unit coach for suburban services.",
+  "image": "",
+  "coach_type": "EMU"
+}

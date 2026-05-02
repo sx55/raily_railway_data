@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "Vande Bharat Express",
+  "type": "Special",
+  "use": "Passenger",
+  "year": "2019",
+  "max_speed": "160 km/h",
+  "description": "Vande Bharat Express is a medium to long-distance semi-high speed express train service operated by the Indian Railways . It is a reserved , air-conditioned chair car service connecting cities that are less than 800 km (500 mi) apart or take less than ten hours to travel with existing services. The commercial service was officially inaugurated on 15 February 2019. The trainsets are self-propelling electric multiple units (EMUs) with eight, sixteen or twenty coaches. They were introduced as part of the Make in India initiative by the Indian government , and are designed and manufactured by the state-owned Integral Coach Factory in Chennai . Introduced in 2018, the trainsets achieved speeds up to 183 km/h (114 mph) during trial runs. However, the maximum operational speed is restricted to 160 km/h (99 mph), which is achieved by the Rani Kamalapati–Hazrat Nizamuddin and Hazrat Nizamuddin-Khajuraho services on the Tughlakabad – Agra section. This is the highest operational speed on the Indian Railways network, shared with Gatimaan Express over the same section. The train is capable of faster acceleration and deceleration, and it went from 0 to 100 km/h in 52 seconds during trial runs. Vande Bharat sleeper services operating dedicated sleeper trainsets , were inaugurated in January 2026. These trains consist of sixteen air-conditioned sleeper coaches.",
+  "image": "images/Special/Vande-Bharat-Express.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/Vande_Bharat_Express"
+}

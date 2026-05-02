@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "ICF Coach",
+  "type": "coach",
+  "use": "Passenger",
+  "year": "1955",
+  "max_speed": "110 km/h",
+  "description": "Integral Coach Factory coach, standard non-AC passenger coach.",
+  "image": "",
+  "coach_type": "ICF"
+}

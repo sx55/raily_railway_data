@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "Diesel multiple unit",
+  "type": "DEMU",
+  "use": "Passenger",
+  "year": "",
+  "max_speed": "",
+  "description": "A diesel multiple unit ( DMU ) is a multiple unit train powered by on-board diesel engines . A DMU requires no separate locomotive , as the engines are incorporated into one or more of the carriages. When additional carriages are coupled on, their controls are connected through and a single driver can control every engine in the train. This also allows the driver to drive from a cab at either end, simplifying reversing. Diesel-powered single-unit railcars are generally regarded as DMUs for most operations, at least with smaller trains. The first diesel railcars appeared in the 1930s and DMUs became popular immediately post-war. They offered several cost-saving advantages, at a time when railway operations were short of funds: The diesel engine may be located above the frame in an engine bay or under the floor. Driving controls can be at both ends, on one end or in a separate car.",
+  "image": "images/EMU/DEMU.jpg",
+  "wiki": "https://en.wikipedia.org/wiki/DEMU"
+}

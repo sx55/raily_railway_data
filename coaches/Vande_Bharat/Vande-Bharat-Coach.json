@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "Vande Bharat Coach",
+  "type": "coach",
+  "use": "Special",
+  "year": "2018",
+  "max_speed": "160 km/h",
+  "description": "Semi-high-speed coach for Vande Bharat Express.",
+  "image": "",
+  "coach_type": "Vande_Bharat"
+}
